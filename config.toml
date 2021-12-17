@@ -3,6 +3,8 @@ base_url = "https://bfritz.com"
 
 theme = "DeepThought"
 
+title = "bfritz[.com]"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
