@@ -24,3 +24,8 @@ navbar_items = [
 
 [extra.social]
 email = "web@bfritz.com"
+github = "bfritz"
+gitlab = "bfritz"
+keybase = "bradfritz"
+linkedin = "webgeek"
+twitter = "bfritz"
