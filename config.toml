@@ -1,6 +1,8 @@
 # The URL the site will be built for
 base_url = "https://bfritz.com"
 
+theme = "DeepThought"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
@@ -13,4 +15,12 @@ build_search_index = true
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+
+navbar_items = [
+ { code = "en", nav_items = [
+  { url = "$BASE_URL/", name = "Home" },
+ ]},
+]
+
+[extra.social]
+email = "web@bfritz.com"
