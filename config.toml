@@ -21,6 +21,7 @@ highlight_code = true
 navbar_items = [
  { code = "en", nav_items = [
   { url = "$BASE_URL/", name = "Home" },
+  { url = "$BASE_URL/meta", name = "Meta" },
  ]},
 ]
 
