@@ -5,7 +5,7 @@ title = "Meta"
 [bfritz.com] is built with the [zola] static site generator and uses a
 fork of [Ratan Kulshreshtha's] [DeepThought] theme.
 
-Source for the blog can be found [here](https://github.com/bfritz/bfritz.com).
+Source for the site can be found [here](https://github.com/bfritz/bfritz.com).
 
 
 [bfritz.com]: https://bfritz.com
