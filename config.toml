@@ -25,6 +25,12 @@ navbar_items = [
  ]},
 ]
 
+[extra.favicon]
+favicon_16x16 = "/icons/favicon-16x16.png"
+favicon_32x32 = "/icons/favicon-32x32.png"
+apple_touch_icon = "/icons/apple-touch-icon.png"
+webmanifest = "/icons/site.webmanifest"
+
 [extra.social]
 email = "web@bfritz.com"
 github = "bfritz"
