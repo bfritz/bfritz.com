@@ -2,7 +2,7 @@
 title = "Brad Fritz"
 +++
 
-Welcome to bfritz.com.  I'm Brad.
+Welcome to [bfritz.com].  I'm Brad.
 
 Occasionally I daydream about throwing all my devices into the
 nearest lake.  _Normally_, though, I enjoy shipping software, gluing
@@ -20,4 +20,5 @@ learning.  And where I'm a member of the team that keeps production
 healthy.
 
 
+[bfritz.com]: https://bfritz.com
 [indy scala]: https://meetup.com/indyscala/
