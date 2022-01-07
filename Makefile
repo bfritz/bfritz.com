@@ -1,3 +1,7 @@
+.PHONY: preview
+preview:
+	zola serve
+
 public/index.html:
 	zola build
 
